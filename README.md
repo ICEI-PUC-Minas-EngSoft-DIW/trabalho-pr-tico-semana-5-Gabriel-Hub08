@@ -8,10 +8,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Drumond
+- Matricula: 907488
+- Proposta de projeto escolhida: Pessoas e projetos
+- Breve descrição sobre seu projeto: Descubra autores e seus projetos 
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
