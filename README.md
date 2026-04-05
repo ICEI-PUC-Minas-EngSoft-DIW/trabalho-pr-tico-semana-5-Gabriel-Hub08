@@ -15,12 +15,12 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-![Desktop](img/desktop.png)
+![Desktop](img/desktop.png.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-![Mobile](img/mobile.png)
-![Mobile](img/mobile.png2)
+![Mobile](img/mobile.png.png)
+![Mobile](img/mobile.png2.png)
 
 
 
